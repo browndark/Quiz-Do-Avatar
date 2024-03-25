@@ -3,6 +3,14 @@ import java.util.Scanner;
 public class Quizz {
     public static void main(String[] args) throws java.lang.Exception {
         int numeroAcertos = 0;
+        System.out.println("==================================================");
+        System.out.println("           Bem-vindo ao Quiz de " + 
+                                    "Bruno Custodio de castro Silva");
+        System.out.println("             Faculdade: UNIFAN");
+        System.out.println("                Professor: Brenno");
+        System.out.println("            Tema: Avatar - A lenda de Aang");
+        System.out.println("==================================================");
+        System.out.println();
         System.out.println("===== Quiz: Avatar - A Lenda de Aang =====");
         numeroAcertos += grupo2();
         System.out.println("Fim do Quiz! Parabéns... De 15 perguntas, você acertou: " + numeroAcertos);

@@ -23,7 +23,7 @@ public class Quizz {
 
         // Questão 1
         Questao questao1 = new Questao();
-        questao1.pergunta = "Qual seria a tarefa de um avatar?";
+        questao1.pergunta = "1)Qual seria a tarefa de um avatar?";
         questao1.opcaoA = "a) Imperador dos elementos";
         questao1.opcaoB = "b) Ponte da paz para os espíritos e humanos";
         questao1.opcaoC = "c) Ser um Andarilho";
@@ -40,7 +40,7 @@ public class Quizz {
 
         // Questão 2
         Questao questao2 = new Questao();
-        questao2.pergunta = "Qual Avatar não tinha perdão para os seus inimigos?";
+        questao2.pergunta = "2)Qual Avatar não tinha perdão para os seus inimigos?";
         questao2.opcaoA = "a) Avatar Roku";
         questao2.opcaoB = "b) Avatar Aang";
         questao2.opcaoC = "c) Avatar Kioshi";
@@ -55,7 +55,7 @@ public class Quizz {
 
         // Questão 3
         Questao questao3 = new Questao();
-        questao3.pergunta = "Quem é o dominador de terra mais forte na era do Aang?";
+        questao3.pergunta = "3)Quem é o dominador de terra mais forte na era do Aang?";
         questao3.opcaoA = "a) Toph";
         questao3.opcaoB = "b) Aang";
         questao3.opcaoC = "c) Rei Bumi";
@@ -70,7 +70,7 @@ public class Quizz {
 
         // Questão 4
         Questao questao4 = new Questao();
-        questao4.pergunta = "Qual sub-dobra é proibida?";
+        questao4.pergunta = "4)Qual sub-dobra é proibida?";
         questao4.opcaoA = "a) Dobra de relâmpagos";
         questao4.opcaoB = "b) Dobra de Lava";
         questao4.opcaoC = "c) Dobra de Combustão";
@@ -85,7 +85,7 @@ public class Quizz {
 
         // Questão 5
         Questao questao5 = new Questao();
-        questao5.pergunta = "Depois da guerra de 1000 anos, o que a Toph fez?";
+        questao5.pergunta = "5)Depois da guerra de 1000 anos, o que a Toph fez?";
         questao5.opcaoA = "a) Abriu uma igreja";
         questao5.opcaoB = "b) Fundou uma pastelaria";
         questao5.opcaoC = "c) Fundou uma república";
@@ -99,7 +99,7 @@ public class Quizz {
         }
         // Questão 6
         Questao questao6 = new Questao();
-        questao6.pergunta = "Qual é a principal arma do Sokka?";
+        questao6.pergunta = "6)Qual é a principal arma do Sokka?";
         questao6.opcaoA = "a) Espada";
         questao6.opcaoB = "b) Boomerang";
         questao6.opcaoC = "c) Lança";
@@ -113,7 +113,7 @@ public class Quizz {
         }
         // Questão 7
         Questao questao7 = new Questao();
-        questao7.pergunta = "Quem confiou no Zuko primeiro?";
+        questao7.pergunta = "7)Quem confiou no Zuko primeiro?";
         questao7.opcaoA = "a) Appa";
         questao7.opcaoB = "b) Momo";
         questao7.opcaoC = "c) Toph";
@@ -126,7 +126,7 @@ public class Quizz {
             cont++;
         } // Questão 8
         Questao questao8 = new Questao();
-        questao5.pergunta = "Aang aprendeu a verdadeira dobra do Fogo com...?";
+        questao5.pergunta = "8)Aang aprendeu a verdadeira dobra do Fogo com...?";
         questao5.opcaoA = "a) Zuko";
         questao5.opcaoB = "b) Azula";
         questao5.opcaoC = "c) Dragões";
@@ -139,7 +139,7 @@ public class Quizz {
             cont++;
         } // Questão 9
         Questao questao9 = new Questao();
-        questao9.pergunta = "Qual era o apelido de luta da Toph?";
+        questao9.pergunta = "9)Qual era o apelido de luta da Toph?";
         questao9.opcaoA = "a) Bandida cega";
         questao9.opcaoB = "b) Dobradora cega";
         questao9.opcaoC = "c) Bruta cega";
@@ -152,7 +152,7 @@ public class Quizz {
             cont++;
         } // Questão 10
         Questao questao10 = new Questao();
-        questao10.pergunta = "Qual o nome do primeiro Avatar?";
+        questao10.pergunta = "10)Qual o nome do primeiro Avatar?";
         questao10.opcaoA = "a) Avatar Wan";
         questao10.opcaoB = "b) Avatar Roku";
         questao10.opcaoC = "c) Avatar Bolin";
@@ -165,7 +165,7 @@ public class Quizz {
             cont++;
         } // Questão 11
         Questao questao11 = new Questao();
-        questao11.pergunta = "Quem foi o Avatar que só bebeu, namorou e lutou por capricho?";
+        questao11.pergunta = "11)Quem foi o Avatar que só bebeu, namorou e lutou por capricho?";
         questao11.opcaoA = "a) Avatar Aang";
         questao11.opcaoB = "b) Avatar Yangchen";
         questao11.opcaoC = "c) Avatar Kyoshi";
@@ -178,7 +178,7 @@ public class Quizz {
             cont++;
         } // Questão 12
         Questao questao12 = new Questao();
-        questao12.pergunta = "Qual a dobra o Aang teve dificuldade em aprender?";
+        questao12.pergunta = "12)Qual a dobra o Aang teve dificuldade em aprender?";
         questao12.opcaoA = "a) Fogo";
         questao12.opcaoB = "b) Terra";
         questao12.opcaoC = "c) Aguá";
@@ -191,7 +191,7 @@ public class Quizz {
             cont++;
         } // Questão 13
         Questao questao13 = new Questao();
-        questao13.pergunta = "No Episodio:Zuko Sozinho, Zuko começou o episodio em estado...";
+        questao13.pergunta = "13)No Episodio:Zuko Sozinho, Zuko começou o episodio em estado...";
         questao13.opcaoA = "a) De fome e cede";
         questao13.opcaoB = "b) De medo";
         questao13.opcaoC = "c) De ciumes";
@@ -204,7 +204,7 @@ public class Quizz {
             cont++;
         } // Questão 14
         Questao questao14 = new Questao();
-        questao14.pergunta = "Qual acontecimento fez Iroh abandonar seu cargo como General?";
+        questao14.pergunta = "14)Qual acontecimento fez Iroh abandonar seu cargo como General?";
         questao14.opcaoA = "a) Perdeu sua Esposa";
         questao14.opcaoB = "b) Perdeu seu animal de estimação";
         questao14.opcaoC = "c) Perdeu seu Filho";
@@ -217,7 +217,7 @@ public class Quizz {
             cont++;
         } // Questão 15
         Questao questao15 = new Questao();
-        questao15.pergunta = "Avatar Yanchen é do Elemento:";
+        questao15.pergunta = "15)Avatar Yanchen é do Elemento:";
         questao15.opcaoA = "a) Fogo";
         questao15.opcaoB = "b) Terra";
         questao15.opcaoC = "c) Aguá";

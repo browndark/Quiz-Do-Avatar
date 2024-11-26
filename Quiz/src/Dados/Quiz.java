@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Quiz {
     public int iniciarQuiz() {
-        int cont = 0; // contador de respostas corretas
+        int cont = 0;
         String respostaUsuario;
 
         System.out.println("==================================================");
@@ -136,6 +136,7 @@ public class Quiz {
         "d) Ar",
         "e) Não era Dobradora",
         "d");
+
 
 
         return cont;
